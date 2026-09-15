@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="210" viewBox="0 0 1200 210" role="img" aria-labelledby="title desc">
+  <title id="title">ARAMAYCE / GitHub archive snapshot</title>
+  <desc id="desc">A dated GitHub profile snapshot: 1 public repository and 1 follower as of 15 September 2026.</desc>
+  <rect width="1200" height="210" fill="#181714"/>
+  <path d="M26 24H1174V186H26Z" fill="none" stroke="#E8E1D4" stroke-width="1" opacity="0.24"/>
+  <path d="M26 24H154" fill="none" stroke="#B9513D" stroke-width="3"/>
+
+  <g fill="#D0AA62" font-family="Menlo, IBM Plex Mono, Consolas, monospace" font-size="19" letter-spacing="2.5">
+    <text x="58" y="62">GITHUB / ARCHIVE SNAPSHOT</text>
+    <text x="917" y="62">2026.09.15</text>
+  </g>
+
+  <g fill="#F0EADF" font-family="Georgia, Iowan Old Style, serif" font-size="76" font-weight="700">
+    <text x="58" y="151">01</text>
+    <text x="560" y="151">01</text>
+  </g>
+  <g fill="#C9C2B5" font-family="Menlo, IBM Plex Mono, Consolas, monospace" font-size="19" letter-spacing="1.4">
+    <text x="180" y="146">PUBLIC REPOSITORY</text>
+    <text x="682" y="146">FOLLOWER</text>
+  </g>
+  <path d="M510 88V163" stroke="#E8E1D4" stroke-width="1" opacity="0.24"/>
+  <path d="M1039 135H1128" stroke="#D0AA62" stroke-width="2" opacity="0.65"/>
+  <circle cx="1140" cy="135" r="4" fill="#B9513D"/>
+</svg>
